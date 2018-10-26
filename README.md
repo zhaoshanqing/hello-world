@@ -1,4 +1,1 @@
-# hello-world
-just another rescription
-import numpy as np;
-import matplotlib.pyplot as plt;
+欢迎进入赵盼盼同学的主页
