@@ -1,2 +1,1 @@
-# hello-world
-just another rescription
+# 大家好，欢迎访问赵盼盼同学的相关文档
